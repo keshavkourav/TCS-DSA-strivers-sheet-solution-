@@ -1,0 +1,15 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore IntelliJ IDEA and VS Code settings
+.idea/
+.vscode/
+
+# Ignore build/output directories
+out/
+build/
+bin/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
