@@ -18,6 +18,8 @@ public class Q1 {
                 min = arr[i];
             }
         }
+
+        
         System.out.println("Smallest element: " + min);
     }
 
